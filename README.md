@@ -21,7 +21,7 @@ Final Grade: 18/20
 
 The data sets used were ch130.tsp and tsp225.tsp. Since no changes were made on the data sets both the interim and processed folders contain both of this data sets. Contains not only the previous data sets mentioned but also others that contain the results of the tuning of the parameters for the genetic algorithm.
 
-### Thesis
+### Thesis - Otimização e Decisão-G6.pdf
 Contains the thesis made in LateX, where all the results, comments and figures appear. 
 ### Notebooks
 Contains several different notebooks and fucntions, related to different algorithms used:
